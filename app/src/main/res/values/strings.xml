@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test Api</string>
+    <string name="user_email_hint">Type Email</string>
+    <string name="user_name_hint">Full Name</string>
+    <string name="user_school_hint">School</string>
+    <string name="user_pwd_hint">Type Password</string>
+    <string name="user_retype_pwd_hint">Retype password</string>
+    <string name="login">Login</string>
+    <string name="login_tittle">User Login</string>
+    <string name="signUp_tittle">Registration</string>
+    <string name="no_account">You don\'t have account?</string>
+    <string name="have_account">Already have account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
